@@ -1,2 +1,2 @@
 # QTree
-Implentation of quad tree.
+Implentation of Quadtree data structure in C++.
